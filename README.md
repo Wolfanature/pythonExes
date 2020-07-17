@@ -1,3 +1,2 @@
 # pythonExes
-exes when learning python
-LeetCode
+exes when learning python on LeetCode(https://leetcode.com/)
